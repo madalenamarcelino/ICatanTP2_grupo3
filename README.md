@@ -8,7 +8,7 @@
 * solução
 
 
-	* ![Fluxograma](fluxograma.png)
+![Fluxograma](fluxograma.png)
 
 
 * estruturas de dados: grelha de simulação, outras estruturas auxiliares 
