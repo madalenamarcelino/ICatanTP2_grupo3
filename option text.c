@@ -11,6 +11,8 @@ int main(void) {
 	//players tries to build on an occupied aread
 	printf("That area is too far away.\n");
 	//players tries to build on an out of reach area
+	printf("A village was built, it cost you 1 Brick, 1 Grain, 1 Lumber and 1 Wool.\n");
+	//a village was built
 	
 
 	printf("Upgrade a village to a city.\n");
@@ -23,6 +25,8 @@ int main(void) {
 	//player tries to upgrade an unixistent village
 	printf("That is not your village.\n");
 	//player tries to upgrade an enemy village
+	printf("You have built a city, it cost you  2 Grain and 3 Iron.\n")
+	//a city was built
 
 
 	printf("Trade resources with the bank (4 to 1 ratio).\n");
@@ -36,6 +40,9 @@ int main(void) {
   	//asks which resource the player wants
 	printf("Which resource do you wish to trade?\n");
 	//asks what resource he wants to give/trade
+	printf("You have trade 4 of X for 1 of Y.\n");
+	//trade happened
+
 
 	printf("Trade resources for points (10 to 1 ratio).\n");
 	printf("B for Brick.\n");
@@ -46,6 +53,8 @@ int main(void) {
 	//player selects the point trade option
 	printf("Which resource do you wish to trade for 1 point?\n");
 	//asks what resource he wants to give/trade
+	printf("You have traded 10 of X for 1 point.\n");
+	//trade happened
 
 
 	printf("End your turn.\n");
