@@ -5,7 +5,9 @@
 
 **Solução**
 
-* solução
+* Para a estruturação geral do código utilizámos structs, switch cases, 
+fors, ifs e pointers de modo a podermos obter os melhores resultados na 
+execução do código. 
 
 Fluxograma da nossa versão do jogo "Settlers of Catan:
 ![Fluxograma](fluxograma.png)
