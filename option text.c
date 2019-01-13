@@ -4,9 +4,9 @@ int main(void) {
 	printf("Choose what you wish to do:\n\n");
   
 	printf("Place a village.\n");
-	//player selects the village option
+	//village option
 	printf("Choose an area surrounding your village(s) to place it.\n");
-	//asks the player where to place his village
+	//player selects the option and program asks the player where to place his village
 	printf("That area is occupied.\n");
 	//players tries to build on an occupied aread
 	printf("That area is too far away.\n");
@@ -16,9 +16,9 @@ int main(void) {
 	
 
 	printf("Upgrade a village to a city.\n");
-	//player selects the city option
+	//city option
 	printf("Select a village to upgrade.\n");
-	//asks the player which village to upgrade
+	//player selects the option and program asks the player which village to upgrade
 	printf("That area is already a city.\n");
 	//players tries to upgrade a city
 	printf("There is no village there.\n");
@@ -30,29 +30,29 @@ int main(void) {
 
 
 	printf("Trade resources with the bank (4 to 1 ratio).\n");
+	//trade resource option
 	printf("B for Brick.\n");
 	printf("G for Grain.\n");
 	printf("I for Iron.\n");
 	printf("L for Lumber.\n");
 	printf("W for Wool.\n");
-	//player selects the resource trade option
-  	printf("Which resource do you want?\n");
-  	//asks which resource the player wants
+	printf("Which resource do you want?\n");
+	//player selects the option and program asks which resource the player wants
 	printf("Which resource do you wish to trade?\n");
-	//asks what resource he wants to give/trade
+	//asks which resource the player wants to give up on
 	printf("You have trade 4 of X for 1 of Y.\n");
 	//trade happened
 
 
 	printf("Trade resources for points (10 to 1 ratio).\n");
+	//trade points option
 	printf("B for Brick.\n");
 	printf("G for Grain.\n");
 	printf("I for Iron.\n");
 	printf("L for Lumber.\n");
 	printf("W for Wool.\n");
-	//player selects the point trade option
 	printf("Which resource do you wish to trade for 1 point?\n");
-	//asks what resource he wants to give/trade
+	////player selects the option and program asks which resource the player wants to give up on
 	printf("You have traded 10 of X for 1 point.\n");
 	//trade happened
 
