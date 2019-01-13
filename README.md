@@ -7,7 +7,7 @@
 
 * solução
 
-
+Fluxograma da nossa versão do jogo "Settlers of Catan:
 ![Fluxograma](fluxograma.png)
 
 
