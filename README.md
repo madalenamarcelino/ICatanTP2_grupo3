@@ -68,7 +68,10 @@ Preços de construcção de aldeias e de cidades:
 
 **Referências**
 
+As bibliotecas usadas foram: 
 * #include <stdio.h>
 * #include <stdlib.h>
 * #include <time.h>
 * #include <ctype.h>
+
+
