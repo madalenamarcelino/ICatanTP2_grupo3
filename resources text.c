@@ -1,4 +1,4 @@
-#include "stdio.h"
+#include <stdio.h>
 int main(void) {
 
 	printf("Player X has:\n\n");
