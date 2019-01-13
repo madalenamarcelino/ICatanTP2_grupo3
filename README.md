@@ -63,12 +63,21 @@ Preços de construcção de aldeias e de cidades:
 
 **Conclusões e matéria aprendida**
 
-* YEET
+* Houve problemas persistentes nas structs e na execução geral do código 
+realçando especialmente a incorporação das estructuras e o funcionamento 
+das mesmas, garantir que os valores destas fossem alteradas como 
+necessário e que estes se mantiam inalterados quando necessários foi 
+também um desafio em sim. Foi também relativamente difícil manter uma 
+organização persistente na estrutura do código.
 
 
 **Referências**
 
-As bibliotecas usadas foram: 
+* Este trabalho tirou várias referencias no que foi dado nas aulas da 
+UC, e as dúvidas restantes foram retiradas ou com colegas ou pesquisadas 
+na internet.
+
+As bibliotecas utilizadas foram: 
 * #include <stdio.h>
 * #include <stdlib.h>
 * #include <time.h>
